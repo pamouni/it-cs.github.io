@@ -1,0 +1,175 @@
+* {
+  font-family: "Maven Pro", sans-serif;
+  margin: 0px;
+  text-decoration: none;
+}
+.body1 {
+  background-color: #150050;
+}
+
+h2 {
+  text-align: center;
+  font-size: 34px;
+  font-weight: 600;
+  color: #000;
+}
+
+/*ICON*/
+.fas {
+  width: 100px;
+  height: 70px;
+  color: #fff;
+}
+/*DIV STYLESS*/
+
+h3 {
+  text-align: center;
+  padding: 15px;
+  font-size: 30px;
+  font-weight: 700;
+  color: #fff;
+}
+@media screen and (max-width: 539px) {
+  h2 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+  }
+}
+
+  /*ICON*/
+  .fas {
+    width: 100px;
+    height: 0px;
+    color: #fff;
+  }
+  .div {
+    width: 100%;
+    height: 62px;
+    background-color: #536162;
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 8px;
+    font-size: 10px;
+    font-weight: 700;
+  }
+  .div a {
+    color: #000;
+  }
+  .subject {
+    font-size: 24px;
+  }
+}
+/*ANCHOR TAGS STYLE*/
+a {
+  text-decoration: none;
+  color: black;
+}
+/*DIVSSS*/
+.div {
+  width: 100%;
+  height: 62px;
+  background-color: #eeeeee;
+  text-align: center;
+  padding-top: 40px;
+  margin-bottom: 8px;
+  color: #000;
+  font-size: 10px;
+  font-weight: 700;
+}
+.div h2 {
+  background-color: #eeeeee;
+  color: #000;
+}
+/*WEB DESIGN PAGE*/
+.web1 {
+  margin: 10px;
+  font-size: 38px;
+ 
+  color: #000;
+}
+.web-p {
+  margin: 20px;
+  font-size: 24px;
+  color: #000;
+  padding: 10px;
+  width: 50%;
+}
+.unorder-list li {
+  margin: 20px;
+  color: #000;
+  margin: 20px;
+  font-size: 20px;
+}
+ul li a {
+  margin-left: 20px;
+}
+.unorder-list li :hover{
+  color: #663dd6;
+}
+img {
+  width: 700px;
+  height: 400px;
+}
+@media screen and (max-width: 539px) {
+  .web-p {
+    width: 700px;
+  }
+  .web1 {
+    width: 380px;
+  }
+  .uni-img {
+    width: 280px;
+    height: 300px;
+    margin: 2px 40px !important;
+  }
+  .web-footer{
+    font-size: 25px;
+    width: 100%;
+margin-left:150px ;
+
+  
+  }
+  
+}
+/*SVGS*/
+.uni-img {
+  margin-left: 450px;
+}
+.uni-img img {
+  width: 700px;
+  height: 400px;
+  margin-left: 450px;
+}
+
+/*FOOTERR*/
+footer ul {
+  text-align: center;
+}
+.inline-blocke ul li {
+  list-style: none;
+}
+.inline-blocke li {
+  margin: 20px 10px 20px;
+  padding: 10px;
+  text-align: center;
+  height: 20px;
+  background-color: #111;
+  display: inline-block;
+}
+.inline-blocke li {
+  margin: 20px 10px 20px;
+  padding: 10px;
+  text-align: center;
+  height: 20px;
+  background-color: #111;
+  display: inline-block;
+  color: #fff;
+}
+.inline-blocke li a {
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 300;
+}
